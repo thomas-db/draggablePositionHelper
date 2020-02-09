@@ -1,0 +1,11 @@
+{
+  "name": "debrabelge-draggable-position-helper",
+  "version": "0.0.1",
+  "description": "A package that helps to drag element in his parent and stick at certain positions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "De Brabander Thomas",
+  "license": "ISC"
+}
